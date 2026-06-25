@@ -48,7 +48,7 @@ todo-list-js/
 🔗 **Versão online:**  
 https://fabianoresende.github.io/todo-list-js/
 
-```
+---
 ## 👨‍💻 Autor  
 **Fabiano Faria de Resende**  
 Estagiário de Engenharia de IA — FlyRank  
