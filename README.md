@@ -30,7 +30,16 @@ todo-list-js/
 ├── script.js
 └── README.md
 
+---
 
+📌 Melhorias Futuras
+[ ] Adicionar persistência com LocalStorage
+
+[ ] Criar tema dark/light
+
+[ ] Adicionar animações
+
+[ ] Criar filtros (todas, concluídas, pendentes)
 
 ---
 
