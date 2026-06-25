@@ -41,7 +41,7 @@ todo-list-js/
 
 [ ] Criar filtros (todas, concluídas, pendentes)
 
----
+```
 
 ## 📸 Demonstração
 
