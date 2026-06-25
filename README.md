@@ -29,3 +29,9 @@ Uma aplicação simples e funcional de lista de tarefas, desenvolvida com **HTML
 
 🔗 **Versão online:**  
 https://fabianoresende.github.io/todo-list-js/
+
+## 👨‍💻 Autor  
+**Fabiano Faria de Resende**  
+Estagiário de Engenharia de IA — FlyRank  
+GitHub: https://github.com/FabianoResende  
+LinkedIn: https://www.linkedin.com/in/fabianofr/
