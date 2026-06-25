@@ -1,25 +1,3 @@
-
----
-
-# ⭐ REVISÃO 2 — `todo-list-js`
-
-Esse README também está muito bom.  
-Aqui vai a revisão profissional mantendo seu estilo:
-
-### ✔ O que está excelente
-- Título claro  
-- Funcionalidades bem listadas  
-- Link da demo funcionando  
-- Cargo correto  
-- Estrutura limpa  
-
-### 🔧 Ajustes recomendados
-1. **Adicionar estrutura do projeto** (estava vazia).  
-2. **Adicionar roadmap**, para manter padrão.  
-3. **Adicionar uma frase final**, como nos outros.
-
-### ⭐ Versão revisada
-
 ```markdown
 # 📝 To‑Do List — JavaScript
 
