@@ -1,4 +1,3 @@
-```markdown
 # 📝 To‑Do List — JavaScript
 
 Uma aplicação simples e funcional de lista de tarefas, desenvolvida com **HTML, CSS e JavaScript**, focada em prática de lógica, manipulação do DOM e organização de código.
@@ -30,6 +29,7 @@ todo-list-js/
 ├── style.css
 ├── script.js
 └── README.md
+
 
 
 ---
