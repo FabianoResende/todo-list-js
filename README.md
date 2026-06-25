@@ -23,3 +23,9 @@ Uma aplicação simples e funcional de lista de tarefas, desenvolvida com **HTML
 
 ## 📂 Estrutura do Projeto
 
+---
+
+## 📸 Demonstração
+
+🔗 **Versão online:**  
+https://fabianoresende.github.io/todo-list-js/
