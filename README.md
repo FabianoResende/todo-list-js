@@ -49,7 +49,6 @@ todo-list-js/
 https://fabianoresende.github.io/todo-list-js/
 
 ```
-
 ## 👨‍💻 Autor  
 **Fabiano Faria de Resende**  
 Estagiário de Engenharia de IA — FlyRank  
